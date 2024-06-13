@@ -69,6 +69,9 @@
 	  <MauiXaml Update="Ejercicio6.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="EjercicioSueldo.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="EjercicioTablas.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
