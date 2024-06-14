@@ -9,6 +9,8 @@
     <local:EjercicioTablas Title="Tablas"/>
     <local:EjercicioSueldo Title="Sueldo"/>
     <local:Ejercicio6 Title="Convertidor"/>
+    <local:Contador Title="Temporizador"/>
+    <local:Langosta Title="Langosta Ahumada"/>
 
 
 
