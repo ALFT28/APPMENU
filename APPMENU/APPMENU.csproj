@@ -78,6 +78,9 @@
 	  <MauiXaml Update="EjercicioTablas.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Hola.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Langosta.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
